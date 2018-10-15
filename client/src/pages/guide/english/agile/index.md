@@ -11,7 +11,16 @@ With Agile, the emphasis is on "agility" - being able to quickly respond to feed
 
 ![A comic from Commitstrip.com showing a product manager explaining to a developer that they are switching to agile, but then asking the developer to plan everything up front](https://www.commitstrip.com/wp-content/uploads/2017/01/Strip-Budegt-fixe-pour-projet-flexible-english650-final.jpg)
 
+The agile software development emphasizes on four core values.
+1. Team and individual interactions over tools and processes.
+2. A working software over comprehensive documentation.
+3. Collaboration with customer over contract negotiations.
+4. Response to change over following a plan.
+
 There are many different flavors of agile, including Scrum and Extreme Programming.
+
+![Various methods in Agile Testing](https://www.guru99.com/images/11-2014/agile_Processesv1_2.png)
+
 
 ### More information
 
